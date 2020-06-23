@@ -1,0 +1,32 @@
+body{
+    background-color: gray;
+}
+.container {
+    display:flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+.card {
+    display:flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+.card-img-top {
+    width:25%;
+    height:25%;
+    float:right;
+}
+ h2 {
+     text-align: center;
+     background-color: white;
+     padding: 20px;
+ }
+
+ li {
+     text-align: center;
+ }
+ 
+h5 {
+    text-align: center;
+}

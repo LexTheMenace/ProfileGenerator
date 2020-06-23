@@ -1,0 +1,27 @@
+{
+  "name": "profilegenerator",
+  "version": "1.0.0",
+  "description": "Generate a Team Profile",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LexTheMenace/ProfileGenerator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LexTheMenace/ProfileGenerator/issues"
+  },
+  "homepage": "https://github.com/LexTheMenace/ProfileGenerator#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "7.2.0",
+    "util": "0.12.3"
+  }
+}
